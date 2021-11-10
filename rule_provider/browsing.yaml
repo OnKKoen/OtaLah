@@ -1,0 +1,32 @@
+payload:
+  # KUL
+  - DOMAIN-KEYWORD,.unp.
+  - DOMAIN-KEYWORD,elearning
+  - DOMAIN-KEYWORD,onlinelearning
+  - DOMAIN-SUFFIX,portal.unp.ac.id
+  - DOMAIN-SUFFIX,elearning2.unp.ac.id
+
+  # > Fast
+  - DOMAIN-SUFFIX,fast.com
+
+  # > Speedtest by Ookla
+  # - User-Agent,SpeedTest*
+  - DOMAIN-KEYWORD,speedtest
+  - DOMAIN-SUFFIX,ooklaserver.net
+
+  # > Speed Test by Cloudflare
+  - DOMAIN-SUFFIX,speed.cloudflare.com
+
+  # Github
+  - DOMAIN-KEYWORD,github
+  - DOMAIN-SUFFIX,githubusercontent.com
+
+  # WEB Manga
+  - DOMAIN-SUFFIX,westmanga.info
+  - DOMAIN-SUFFIX,kiryuu.id
+  - DOMAIN-SUFFIX,sektekomik.com
+  - DOMAIN-SUFFIX,moddroid.co
+  - DOMAIN-SUFFIX,hostednovel.com
+  - DOMAIN-SUFFIX,cdnkuma.my.id
+  - DOMAIN-SUFFIX,cdn.statically.io
+  - DOMAIN-SUFFIX,cdnsektekomik.xyz
