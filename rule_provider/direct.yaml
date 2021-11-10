@@ -1,13 +1,56 @@
 payload:
   - DOMAIN-KEYWORD,mobilelegends
   - DOMAIN-KEYWORD,googlezip
+  - DOMAIN-KEYWORD,whatsapp
   - DOMAIN-SUFFIX,akmpicture.youngjoygame.com
   - DOMAIN-SUFFIX,youngjoygame.com
+  - DOMAIN-SUFFIX,whatsapp.com
+  - DOMAIN-SUFFIX,whatsapp.net
+ # Spotify
+  - DOMAIN-SUFFIX,open.spotify.com
+  - DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
+  - DOMAIN-SUFFIX,byspotify.com
+  - DOMAIN-SUFFIX,heads4-ak-spotify-com.akamaized.net
+  - DOMAIN-SUFFIX,pscdn.co
+  - DOMAIN-SUFFIX,scdn.co
+  - DOMAIN-SUFFIX,spoti.fi
+  - DOMAIN-SUFFIX,spotify-com.akamaized.net
+  - DOMAIN-SUFFIX,spotify-everywhere.com
+  - DOMAIN-SUFFIX,spotify.com
+  - DOMAIN-SUFFIX,spotify.design
+  - DOMAIN-SUFFIX,spotifycdn.com
+  - DOMAIN-SUFFIX,spotifycdn.net
+  - DOMAIN-SUFFIX,spotifycharts.com
+  - DOMAIN-SUFFIX,spotifycodes.com
+  - DOMAIN-SUFFIX,spotifyforbrands.com
+  - DOMAIN-SUFFIX,spotifyjobs.com
+  - DOMAIN-KEYWORD,-spotify-com
+  - DOMAIN-KEYWORD,spotify.com
+  # Deezer
+  - DOMAIN-SUFFIX,deezer.com
+  - DOMAIN-SUFFIX,dzcdn.net
+  # JOOX
+  - DOMAIN-SUFFIX,joox.com
+  - DOMAIN-KEYWORD,jooxweb-api
+  # > GameMax
+  - DOMAIN-SUFFIX,freefiremobile-a.akaimaihd.net
+  - DOMAIN-SUFFIX,www.gamepubgmobile.com
+  - DOMAIN-SUFFIX,psmc.pubgmobile.com
+  - DOMAIN-SUFFIX,m.blackdesertonline.com
+  - DOMAIN-SUFFIX,www.arenaofvalor.com
+  - DOMAIN-SUFFIX,aov.garena.co.id
+  - DOMAIN-SUFFIX,filecdn-igamecj.akamaized.net
+  - DOMAIN-SUFFIX,cdn.riseofnowlin.mobi
   - IP-CIDR,192.168.1.1/24
-  - IP-CIDR,128.1.87.234
-  - IP-CIDR,119.81.52.204
-  - IP-CIDR,114.125.16.40
-  - IP-CIDR,129.227.52.204
-  - IP-CIDR,129.227.69.50
-
+  - IP-CIDR,128.1.87.1/24
+  - IP-CIDR,119.81.52.1/24
+  - IP-CIDR,114.125.16.1/24
+  - IP-CIDR,129.227.52.1/24
+  - IP-CIDR,129.227.69.1/24
+  - IP-CIDR,216.239.32.112/32
+  - IP-CIDR,209.85.137.4/32
+  - IP-CIDR,119.81.23.11/32
+  - IP-CIDR,128.1.59.194/32
+  - IP-CIDR,119.81.72.149/32
+  - IP-CIDR,128.14.211.34/32
 
