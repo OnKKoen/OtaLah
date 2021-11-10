@@ -21,12 +21,34 @@ payload:
   - DOMAIN-KEYWORD,github
   - DOMAIN-SUFFIX,githubusercontent.com
 
+  #SF
+  - DOMAIN-KEYWORD,sourceforge
+
+  #Pling
+  - DOMAIN-KEYWORD,pling
+
+  #Disqus
+  - DOMAIN-KEYWORD,disqus
+
   # WEB Manga
+  ##Westmanga
   - DOMAIN-SUFFIX,westmanga.info
+  - DOMAIN-SUFFIX,4youscan.xyz
+  ##Kiryu
   - DOMAIN-SUFFIX,kiryuu.id
-  - DOMAIN-SUFFIX,sektekomik.com
-  - DOMAIN-SUFFIX,moddroid.co
-  - DOMAIN-SUFFIX,hostednovel.com
+  - DOMAIN-SUFFIX,wp.com
   - DOMAIN-SUFFIX,cdnkuma.my.id
-  - DOMAIN-SUFFIX,cdn.statically.io
+  - DOMAIN-SUFFIX,yuucdn.net
+  ##Sektekomik
+  - DOMAIN-SUFFIX,sektekomik.com
   - DOMAIN-SUFFIX,cdnsektekomik.xyz
+  ##Moddroid
+  - DOMAIN-SUFFIX,moddroid.co
+  ##hostednovel
+  - DOMAIN-SUFFIX,hostednovel.com
+  ##novelupdates
+  - DOMAIN-KEYWORD,novelupdates
+
+  ##Other
+  - DOMAIN-SUFFIX,cdn.statically.io
+  - DOMAIN-SUFFIX,statically.map.fastly.net
