@@ -1,0 +1,13 @@
+payload:
+  - DOMAIN-KEYWORD,mobilelegends
+  - DOMAIN-KEYWORD,googlezip
+  - DOMAIN-SUFFIX,akmpicture.youngjoygame.com
+  - DOMAIN-SUFFIX,youngjoygame.com
+  - IP-CIDR,192.168.1.1/24
+  - IP-CIDR,128.1.87.234
+  - IP-CIDR,119.81.52.204
+  - IP-CIDR,114.125.16.40
+  - IP-CIDR,129.227.52.204
+  - IP-CIDR,129.227.69.50
+
+

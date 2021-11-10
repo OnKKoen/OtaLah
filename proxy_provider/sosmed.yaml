@@ -1,0 +1,8 @@
+proxies:
+  - {name: Trojan Atha, server: id-atha.bypass.id, port: 443, type: trojan, password: 14ab9ac0-373c-11ec-b022-1577c1651679, udp: true, sni: m.starmakerstudios.com, skip-cert-verify: true}
+  - {name: Trojan Argon, server: indo-3-trojan.serverip.xyz, port: 443, type: trojan, password: 16f88a20-38d4-11ec-9dae-1577c1651679, udp: true, sni: m.starmakerstudios.com, skip-cert-verify: true}
+  - {name: Trojan Nusa, server: id-nusa-jkt.bypass.id, port: 443, type: trojan, password: 44310d60-38d4-11ec-8c67-1577c1651679, udp: true, sni: m.starmakerstudios.com, skip-cert-verify: true}
+  - {name: Trojan Sago, server: id-sanggoro.bypass.id, port: 443, type: trojan, password: 9d542d60-38d4-11ec-83b8-1577c1651679, udp: true, sni: m.starmakerstudios.com, skip-cert-verify: true}
+  - {name: Trojan Uninet, server: id-uninet.bypass.id, port: 443, type: trojan, password: ce439700-38d4-11ec-b66d-1577c1651679, udp: true, sni: m.starmakerstudios.com, skip-cert-verify: true}
+  - {name: Trojan Rack, server: indo-2.serverip.xyz, port: 443, type: trojan, password: 7447bf90-41e8-11ec-b45d-1577c1651679, udp: true, sni: m.starmakerstudios.com, skip-cert-verify: true}
+

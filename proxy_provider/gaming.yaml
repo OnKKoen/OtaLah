@@ -1,0 +1,2 @@
+proxies:
+  - {name: Trojan Game, server: id-game.serverip.xyz, port: 443, type: trojan, password: 14b57040-38d5-11ec-9f3f-1577c1651679, udp: true, sni: m.starmakerstudios.com, skip-cert-verify: true}

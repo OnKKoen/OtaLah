@@ -1,0 +1,5 @@
+proxies:
+  - {name: Trojan SG, server: sg-trojan.serverip.xyz, port: 443, type: trojan, password: 73695680-421b-11ec-860c-1577c1651679, udp: true, sni: m.starmakerstudios.com, skip-cert-verify: true}
+  - {name: V2ray Tcp, server: sg-v2ay.serverip.xyz, port: 443, type: vmess, uuid: 80db1870-41e7-11ec-a88f-1577c1651679, alterId: 32, cipher: auto, tls: true, skip-cert-verify: true, servername: m.starmakerstudios.com, network: tcp, sni: m.starmakerstudios.com}
+  - {name: Trojan SGGS, server: sggs.bypass.id, port: 443, type: trojan, password: 883c9e80-2dc5-11ec-9d02-1577c1651679, udp: true, sni: m.starmakerstudios.com, skip-cert-verify: true}
+  
