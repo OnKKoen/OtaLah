@@ -184,17 +184,6 @@ payload:
   - DOMAIN-SUFFIX,youtubemobilesupport.com
   - DOMAIN-SUFFIX,yt.be
   - DOMAIN-SUFFIX,ytimg.com
-  # TikTok
-  - DOMAIN-SUFFIX,byteoversea.com
-  - DOMAIN-SUFFIX,ibytedtos.com
-  - DOMAIN-SUFFIX,ipstatp.com
-  - DOMAIN-SUFFIX,muscdn.com
-  - DOMAIN-SUFFIX,musical.ly
-  - DOMAIN-SUFFIX,tiktok.com
-  - DOMAIN-SUFFIX,tik-tokapi.com
-  - DOMAIN-SUFFIX,tiktokcdn.com
-  - DOMAIN-SUFFIX,tiktokv.com
-  - DOMAIN-KEYWORD,-tiktokcdn-com
   # HBO GO HKG
   - DOMAIN-SUFFIX,hbogoasia.com
   - DOMAIN-SUFFIX,hbogoasia.hk
