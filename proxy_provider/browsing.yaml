@@ -1,3 +1,0 @@
-proxies:
-  - {name: V2ray Tcp, server: sg-v2ay.serverip.xyz, port: 443, type: vmess, uuid: 80db1870-41e7-11ec-a88f-1577c1651679, alterId: 32, cipher: auto, tls: true, skip-cert-verify: true, servername: m.starmakerstudios.com, network: tcp, sni: m.starmakerstudios.com}
-  - {name: Trojan Atha, server: id-atha.bypass.id, port: 443, type: trojan, password: 14ab9ac0-373c-11ec-b022-1577c1651679, udp: true, sni: m.starmakerstudios.com, skip-cert-verify: true}
