@@ -34,3 +34,4 @@ payload:
   #Ads
   - DOMAIN-KEYWORD,ads
   - DOMAIN-KEYWORD,telemetry
+  - DOMAIN-SUFFIX,graph.facebook.com
